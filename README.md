@@ -1,8 +1,6 @@
 # 🎯 DESAFIO TÉCNICO SALESFORCE
 ## Implementação de Funil Comercial B2B - Lead to Opportunity
 
----
-
 ## 📋 CONTEXTO DA EMPRESA
 
 ### Empresa Fictícia: **TechFlow Solutions**
@@ -17,8 +15,6 @@
 - Venda de licenças SaaS (anual e mensal)
 - Serviços de implementação e customização
 - Suporte técnico dedicado
-
----
 
 ## 👥 EQUIPES E INTERLOCUTORES
 
@@ -75,7 +71,6 @@
 - **Status:** Active ou At Risk
 - **Responsável:** Customer Success Manager
 
----
 
 ## ⚙️ DESAFIOS COMERCIAIS REAIS
 
@@ -97,7 +92,6 @@
 - Validação de respostas
 - Atualização automática de campos na conta
 
----
 
 ### **DESAFIO 2: Scoring Automático de Leads**
 **Cenário:**
@@ -122,7 +116,6 @@
 - Visualização clara do score e justificativa
 - Performance com volume alto (1000+ leads/dia)
 
----
 
 ### **DESAFIO 3: Prevenção de Duplicatas**
 **Cenário:**
@@ -142,7 +135,6 @@
 - Fluxo de revisão para dúvidas
 - Auditoria de mudanças
 
----
 
 ### **DESAFIO 4: Distribuição Automática de Leads**
 **Cenário:**
@@ -164,7 +156,6 @@
 - Configuração de regras de atribuição
 - Auditoria de distribuição
 
----
 
 ### **DESAFIO 5: Validação de Integridade de Dados**
 **Cenário:**
@@ -184,7 +175,6 @@
 - Relatórios de qualidade (dashboard)
 - Permissões para ignorar validações (com auditoria)
 
----
 
 ### **DESAFIO 6: Path (Caminho Guiado) de Vendas**
 **Cenário:**
@@ -207,7 +197,6 @@
 - Campos dinâmicos por etapa
 - Validação antes de avançar
 
----
 
 ### **DESAFIO 7: Sharing Settings e Visibilidade**
 **Cenário:**
@@ -228,7 +217,6 @@
 - Testes de visibilidade
 - Auditoria de acesso (Field Audit Trail)
 
----
 
 ### **DESAFIO 8: Integração Web-to-Lead Customizada**
 **Cenário:**
@@ -252,7 +240,6 @@
 - Tratamento de respostas duplicadas
 - Integração com email marketing
 
----
 
 ### **DESAFIO 9: Named Credentials e Segurança**
 **Cenário:**
@@ -272,7 +259,6 @@
 - Refresh tokens
 - Tratamento de expiração
 
----
 
 ### **DESAFIO 10: Relatórios e Insights Comerciais**
 **Cenário:**
